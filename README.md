@@ -1,2 +1,2 @@
-Scoket implementation in rust
-Implemented a socket in rust
+Scoket implementation in rust.
+Implemented a socket in rust.
